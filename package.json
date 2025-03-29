@@ -11,6 +11,9 @@
   "author": "Andrii Rohovenko <andrii.rohovenko@gmail.com>",
   "license": "ISC",
   "description": "",
+  "dependencies": {
+    "typescript": "^5.1.5"
+  },
   "devDependencies": {
     "@web/dev-server": "^0.4.6"
   }
