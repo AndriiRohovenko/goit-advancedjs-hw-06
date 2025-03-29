@@ -1,0 +1,15 @@
+{
+  "name": "type-script-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "Andrii Rohovenko <andrii.rohovenko@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}
