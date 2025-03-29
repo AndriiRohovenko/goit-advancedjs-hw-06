@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
     "start": "web-dev-server --node-resolve --open --watch"
   },
   "keywords": [],
